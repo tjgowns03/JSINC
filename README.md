@@ -1,10 +1,10 @@
 # JSINC
 
 →개발환경
-Programming Language - Java 1.8  IDE - Eclipse
-DB - Oracle 
-Framework - MyBatis, Spring 4
-Build Tool - Maven
+Programming Language - Java 1.8  IDE - Eclipse  
+DB - Oracle  
+Framework - MyBatis, Spring 4  
+Build Tool - Maven  
 
 →주요 구현 기능
 1.출/퇴근
