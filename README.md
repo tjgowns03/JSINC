@@ -21,6 +21,9 @@ Build Tool - Maven
 9.설문  
 10.관리자 페이지  
 
+**관리자 페이지**  
+1.아이디=1 =master  
+2.관리자 로그인 버튼 클릭  
 
 **설치**
 1. project clone  
