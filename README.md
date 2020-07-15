@@ -1,8 +1,7 @@
 # JSINC
 
 →개발환경
-Programming Language - Java 1.8
-IDE - Eclipse
+Programming Language - Java 1.8  IDE - Eclipse
 DB - Oracle 
 Framework - MyBatis, Spring 4
 Build Tool - Maven
