@@ -3,13 +3,13 @@
 그룹웨어  
 =========
 
-개발환경  
+**개발환경**  
 Programming Language - Java 1.8  IDE - Eclipse  
 DB - Oracle  
 Framework - MyBatis, Spring 4  
 Build Tool - Maven  
 
-→주요 구현 기능  
+**주요 구현 기능**  
 1.출/퇴근  
 2.커뮤니티  
 3.게시판  
@@ -22,7 +22,7 @@ Build Tool - Maven
 10.관리자 페이지  
 
 
-→설치
+**설치**
 1. project clone  
 2. src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml  
 <!-- 업로드 패스 설정 --> 
