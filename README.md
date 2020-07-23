@@ -1,7 +1,7 @@
 
 
-# JSInc.그룹웨어  
-=========
+# JSInc.(그룹웨어)  
+
 
 **개발환경**  
 Programming Language - Java 1.8  IDE - Eclipse  
