@@ -8,7 +8,7 @@ Programming Language - Java 1.8  IDE - Eclipse
 DB - Oracle  
 Framework - MyBatis, Spring 4  
 Build Tool - Maven  
-
+  
 **주요 구현 기능**  
 1.출/퇴근  
 2.커뮤니티  
@@ -20,12 +20,14 @@ Build Tool - Maven
 8.쪽지  
 9.설문  
 10.관리자 페이지  
+  
 **사원 페이지**    
 1.아이디:1234 비밀번호:123
 2.로그인 버튼 클릭  
 **관리자 페이지**  
 1.아이디:1 비밀번호:master  
 2.관리자 로그인 버튼 클릭  
+  
 
 **설치**
 1. project clone  
